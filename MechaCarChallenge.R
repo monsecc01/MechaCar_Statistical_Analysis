@@ -19,3 +19,5 @@ total_summary <- suspensionCoil %>% summarize(mean=mean(PSI), median=median(PSI)
 #lot summary data frame
 lot_summary <- suspensionCoil %>% group_by(Manufacturing_Lot) %>% summarize(mean=mean(PSI), median=median(PSI), variance=var(PSI), sd=sd(PSI))
 
+## DELIVERABLE 3. T-Test on Suspension Coils ##
+# t.test
