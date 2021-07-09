@@ -2,6 +2,10 @@
 
 ## Sources:
 
+Data Source: election_results.csv
+
+Software: R, RStudio Version 1.4.1717
+
 ## Linear Regression to Predict MPG
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
