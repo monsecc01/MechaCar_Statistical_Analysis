@@ -16,3 +16,4 @@ The design specifications for the MechaCar suspension coils dictate that the var
 Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 ## T-Tests on Suspension Coils
+Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
