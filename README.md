@@ -5,7 +5,7 @@
 Data Source:  [MechaCar_mpg.csv](https://github.com/monsecc01/MechaCar_Statistical_Analysis/blob/621f72d1094689ed2c9b467a1d42d3dcff991481/Resources/MechaCar_mpg.csv) | 
 [Suspension_Coil.csv](https://github.com/monsecc01/MechaCar_Statistical_Analysis/blob/621f72d1094689ed2c9b467a1d42d3dcff991481/Resources/Suspension_Coil.csv)
 
-Software: R, RStudio Version 1.4.1717
+Software: R Version 4.1.0, RStudio Version 1.4.1717
 
 ## Linear Regression to Predict MPG
 
