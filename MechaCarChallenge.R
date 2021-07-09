@@ -21,3 +21,16 @@ lot_summary <- suspensionCoil %>% group_by(Manufacturing_Lot) %>% summarize(mean
 
 ## DELIVERABLE 3. T-Test on Suspension Coils ##
 # t.test
+t.test(suspensionCoil$PSI, mu= 1500)
+
+Lot1 = subset(suspensionCoil, Manufacturing_Lot == 'Lot1')
+Lot2 = subset(suspensionCoil, Manufacturing_Lot == 'Lot2')
+Lot3 = subset(suspensionCoil, Manufacturing_Lot == 'Lot3')
+
+t.test(Lot1$PSI, mu = 1500) 
+# p-value = 1
+t.test(Lot2$PSI, mu = 1500)
+# p-value = 0.6072
+t.test(Lot3$PSI, mu = 1500)
+# p-value = 0.04168
+
