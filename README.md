@@ -41,6 +41,8 @@ When one sample T-tests were performed per lot, we see different p-values.
 * Lot 2 has a p-value of 0.60, therefore the null hypotheses is not rejected and the real mean for samples in lot 2 is close to 1500
 * Lot 3 has a p-value of 0.04 therefore we *reject* the null hypothesis and assume the real hypothesis is closer to 1496.14.
 
+![lot t tests](https://user-images.githubusercontent.com/81447450/125154119-0db27600-e11e-11eb-87f4-2cccbc849114.PNG)
+
 
 # Study Design: MechaCar vs Competition
 
