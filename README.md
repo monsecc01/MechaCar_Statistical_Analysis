@@ -1,3 +1,4 @@
+![total variance](https://user-images.githubusercontent.com/81447450/125152264-18b2d980-e111-11eb-8cbc-63c5c7fca875.PNG)
 # MechaCar Statistical Analysis
 
 ## Sources
@@ -26,6 +27,10 @@ Does the current manufacturing data meet this design specification for all manuf
 
 The overall variance for all lots of suspension coils was found to be 62.29 lbs per square inch, well below the max specifications. 
 When we look at each individual lot, Lot 1 and Lot 2 have a variance of 0.9795918 and 7.4693878 respecively. Both lots meet specifications. However, Lot 3 was observed to have a variance of 170.2861224. This lot greatly excedes the max load limit and should be inspected further. 
+
+![total variance](https://user-images.githubusercontent.com/81447450/125152269-27998c00-e111-11eb-9492-3d09fbb3fda5.PNG)
+![lot variance](https://user-images.githubusercontent.com/81447450/125152275-2d8f6d00-e111-11eb-91a0-855a480d9fac.PNG)
+
 
 ## T-Tests on Suspension Coils
 Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
