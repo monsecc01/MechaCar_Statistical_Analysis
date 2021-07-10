@@ -36,6 +36,8 @@ When we look at each individual lot, Lot 1 and Lot 2 have a variance of 0.979591
 A series of one sample T-tests were performed on suspension coils to determine the true mean of PSI measurements. The null hypothesis is that true mean = 1500.
 The T-test for all lots gave us a p-value of .06, with a level of significance of 0.05 we cannot reject the null hypothesis. 
 
+![t-test](https://user-images.githubusercontent.com/81447450/125154145-3a668d80-e11e-11eb-88e7-55e42cf03497.PNG)
+
 When one sample T-tests were performed per lot, we see different p-values.
 * Lot 1 has a p-value of 1, therefore the null hypothesis is not rejected and the real mean for samples in lot 1 is close to 1500.
 * Lot 2 has a p-value of 0.60, therefore the null hypotheses is not rejected and the real mean for samples in lot 2 is close to 1500
