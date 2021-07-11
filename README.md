@@ -48,7 +48,7 @@ When one sample T-tests were performed per lot, we see different p-values.
 
 # Study Design: MechaCar vs Competition
 
-To statistically analyze how the MechaCar performs against other vehicles in the market we could compare environmental impact related metrics. We could perform a study to find a linear regression between C02 emissions and fuel efficiency (MPG) among our top 5 competitors. In today's market, fuel efficient cars are highly sought after due to the high gass prices and the environmental impact of cars. It's also known that the more fuel efficient a car is, the less the environmental impact so we would expect a linear relationship. To obtain the linear regression we could obtain the following metrics:
+To statistically analyze how the MechaCar performs against other vehicles in the market we could compare environmental impact related metrics. We could perform a study to find a linear regression between C02 emissions and fuel efficiency (MPG) among our top 5 competitors. In today's market, fuel efficient cars are highly sought after due to the high gas prices and the environmental impact of cars. It's also known that the more fuel efficient a car is, the less the environmental impact so we would expect a linear relationship. To obtain the linear regression we could obtain the following metrics:
 * cost
 * fuel eficiency (highway or city) in MPG, 
 * CO2 emissions
